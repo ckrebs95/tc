@@ -1,5 +1,3 @@
-TrueCrypt 7.1a Final Source
-
 This archive contains the source code of TrueCrypt 7.1a.
 
 
